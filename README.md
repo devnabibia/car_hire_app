@@ -6,7 +6,7 @@
 
 <p>Credits for the design goes to <a href='#'>devnabibia</a></p>
 
-👉 Live Demo: <a href='https://car-rental-ten.vercel.app/'>Live Demo</a>
+👉 Live Demo: <a href='https://car-hire-app-chi.vercel.app/'>Live Demo</a>
 
 <h3>Build with:</h3>
 
